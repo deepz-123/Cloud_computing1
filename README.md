@@ -69,3 +69,33 @@ IAM roles can also be used for fine-grained access control
 After upload, select a file and copy its Object URL
 
 Paste it in a browser (if permissions allow) to view/download the file
+
+
+**OUTPUT**
+
+**STEP 1:**
+<img width="1361" height="639" alt="Image" src="https://github.com/user-attachments/assets/f040252b-9188-4065-9b28-cb49cd5dc98a" />
+
+**STEP 2:**
+
+<img width="1362" height="602" alt="Image" src="https://github.com/user-attachments/assets/571dae79-2aed-4271-9b5e-9714d2579458" />
+
+**STEP 3:**
+
+<img width="1358" height="608" alt="Image" src="https://github.com/user-attachments/assets/911a13fe-e6b6-47f1-b00e-3466b7c53c3b" />
+
+**STEP 4:**
+
+<img width="1351" height="611" alt="Image" src="https://github.com/user-attachments/assets/b0abb0ac-82de-4a18-be5b-70b8aba17a00" />
+
+**STEP 5:**
+
+<img width="1365" height="626" alt="Image" src="https://github.com/user-attachments/assets/f9837b08-13a5-4843-8933-ec5b105ebbeb" />
+
+**STEP 6:**
+
+<img width="1363" height="715" alt="Image" src="https://github.com/user-attachments/assets/c2bbd889-dfec-4f36-965e-29cbc09d0dba" />
+
+**STEP 7:**
+
+<img width="1365" height="718" alt="Image" src="https://github.com/user-attachments/assets/56705e62-d68e-4f01-a73c-6f72adeb7b5b" />
